@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.df71d88e.css",
-    "main.js": "/static/js/main.2c70a8e2.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Rehman-Ali_MERN_WCY_QD.pdf": "/static/media/Rehman-Ali_MERN_WCY_QD.8954747bbf8dc6e77bee.pdf",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.df71d88e.css.map": "/static/css/main.df71d88e.css.map",
-    "main.2c70a8e2.js.map": "/static/js/main.2c70a8e2.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/devrehmanali_porfolio/static/css/main.cc0ca58e.css",
+    "main.js": "/devrehmanali_porfolio/static/js/main.429e4582.js",
+    "static/js/787.1ed0c42c.chunk.js": "/devrehmanali_porfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/devrehmanali_porfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/devrehmanali_porfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/devrehmanali_porfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/devrehmanali_porfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/devrehmanali_porfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/devrehmanali_porfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/devrehmanali_porfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/devrehmanali_porfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Rehman-Ali_MERN_WCY_QD.pdf": "/devrehmanali_porfolio/static/media/Rehman-Ali_MERN_WCY_QD.8954747bbf8dc6e77bee.pdf",
+    "static/media/avatar.svg": "/devrehmanali_porfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/devrehmanali_porfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/devrehmanali_porfolio/index.html",
+    "main.cc0ca58e.css.map": "/devrehmanali_porfolio/static/css/main.cc0ca58e.css.map",
+    "main.429e4582.js.map": "/devrehmanali_porfolio/static/js/main.429e4582.js.map",
+    "787.1ed0c42c.chunk.js.map": "/devrehmanali_porfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df71d88e.css",
-    "static/js/main.2c70a8e2.js"
+    "static/css/main.cc0ca58e.css",
+    "static/js/main.429e4582.js"
   ]
 }
