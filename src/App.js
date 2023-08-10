@@ -28,8 +28,9 @@ const App = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  // <Router>
   return (
-    <Router>
+    <>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
@@ -43,8 +44,9 @@ const App = () => {
         </Routes>
         <Footer />
       </div>
-    </Router>
+    </>
   );
 };
+// </Router>
 
 export default App;
