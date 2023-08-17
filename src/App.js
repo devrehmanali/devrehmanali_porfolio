@@ -6,12 +6,7 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
-import {
-  HashRouter as Router,
-  Route,
-  Routes,
-  Navigate,
-} from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
@@ -28,7 +23,6 @@ const App = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  // <Router>
   return (
     <>
       <Preloader load={load} />
@@ -47,6 +41,5 @@ const App = () => {
     </>
   );
 };
-// </Router>
 
 export default App;
